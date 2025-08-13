@@ -37,9 +37,7 @@ cd your-repo-name
 npm install
 npm run dev
 📂 Project Structure
-csharp
-Copy
-Edit
+
 .
 ├── app/                # Application routes & components
 ├── components/         # Reusable UI components
